@@ -17,11 +17,6 @@ Open your terminal or command line, and clone this repository: git clone https:/
 Have fun!
 
 Kelly Stinson
+
 Course: Udemy, 100 Days of Code: The Complete Python Pro Bootcamp
 Couse Link: https://www.udemy.com/course/100-days-of-code
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
