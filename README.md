@@ -16,6 +16,8 @@ Open your terminal or command line, and clone this repository: git clone https:/
 
 Have fun!
 
+## Course Info
+
 Kelly Stinson
 
 Course: Udemy, 100 Days of Code: The Complete Python Pro Bootcamp
